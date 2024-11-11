@@ -66,11 +66,14 @@ used.
 #### Synthesis RTL Schematic :
 
 #### Area report:
-https://github.com/user-attachments/assets/b7bc672d-bf9f-4f5c-bbbe-59ad4cfe9f33
+![Screenshot 2024-11-11 113611](https://github.com/user-attachments/assets/37a86107-d55f-4f11-97dd-6b54744b3df6)
+
 #### Power Report:
-https://github.com/user-attachments/assets/d26748fb-718b-46f2-b25b-1dde4ea48225
-#### Timing Report: 
-https://github.com/user-attachments/assets/dd1d2ca1-1754-434c-92fe-d5bad4b5e775
+![Screenshot 2024-11-11 113642](https://github.com/user-attachments/assets/9fcdc91d-7f2c-4edc-aa7f-233a2a5d590d)
+
+#### Timing Report:
+![Screenshot 2024-11-11 113659](https://github.com/user-attachments/assets/14211486-e45b-4315-b958-8148ab8f4caa)
+
 #### Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
